@@ -1,0 +1,53 @@
+img {
+  width: 350px;
+  border-radius: 200px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 2em;
+  background-color: lightgrey;
+}
+
+.username {
+  font-weight: bold;
+}
+
+table {
+  width: 700px;
+}
+
+tr {
+  height: 30px;
+}
+
+h2 {
+  color: rgb(17, 213, 223);
+  text-decoration: underline;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.text {
+  background-color: lightgrey;
+  width: 950px;
+  border: 15px solid green;
+  padding: 60px;
+  margin: 20px;
+}
+
+a {
+  display: block;
+}
+
+#styling {
+  font-style: italic;
+  font-weight: bold;
+}
